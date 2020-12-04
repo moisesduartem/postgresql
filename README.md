@@ -23,7 +23,7 @@ Northwhind it's a database sample that was made available by Microsoft.
 │   ├── Delete  
 │   ├── Insert  
 │   ├── Select  
-│   └── Update 
+│   └── Update  
 ├── **TCL (Transaction Control Language)**  
 │   ├── Start Transaction  
 │   ├── Commit  
