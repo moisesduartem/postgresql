@@ -1,5 +1,6 @@
 - [1. What is Northwind?](#1-what-is-northwind)
 - [2. SQL command classes](#2-sql-command-classes)
+- [3. Accessing PostgreSQL with psql command line client](#3-accessing-postgresql-with-psql-command-line-client)
 
 # 1. What is Northwind?
 
@@ -28,3 +29,19 @@ Northwhind it's a database sample that was made available by Microsoft.
 │   ├── Start Transaction  
 │   ├── Commit  
 │   └── Rollback 
+
+# 3. Accessing PostgreSQL with psql command line client
+
+3.1. Accessing psql with postgres user
+    
+    
+    $ psql -U postgres
+    
+
+3.2. If you need some help
+
+    postgres=# help
+
+3.3. Command summary
+
+    postgres=# \h
