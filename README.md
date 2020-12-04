@@ -51,3 +51,13 @@ Northwhind it's a database sample that was made available by Microsoft.
 3.3. Command summary
 
     postgres=# \h
+
+# 4. DDL
+
+4.1. Creating database
+    
+    create database northwhind
+
+4.2. Dropping database
+    
+    drop database northwhind
