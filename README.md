@@ -1,6 +1,12 @@
+- [Basic Installation (Ubuntu 20.04)](#basic-installation-ubuntu-2004)
 - [1. What is Northwind?](#1-what-is-northwind)
 - [2. SQL command classes](#2-sql-command-classes)
 - [3. Accessing PostgreSQL with psql command line client](#3-accessing-postgresql-with-psql-command-line-client)
+- [4. DDL](#4-ddl)
+
+# Basic Installation (Ubuntu 20.04)
+
+    # apt install postgresql postgresql-contrib
 
 # 1. What is Northwind?
 
