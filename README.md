@@ -12,7 +12,7 @@
 
 Northwhind it's a database sample that was made available by Microsoft.
 
-[PostgreSQL's example.](#https://github.com/pthom/northwind_psql)
+[PostgreSQL's example.](https://github.com/pthom/northwind_psql)
 
 # 2. SQL command classes
 
